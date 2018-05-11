@@ -1,6 +1,6 @@
 {
   "name": "egg-view-lambda",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Render response with a lambda function",
   "eggPlugin": {
     "name": "lambda",
